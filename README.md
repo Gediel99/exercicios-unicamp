@@ -10,5 +10,5 @@
 
 ## Observações
 
-Viso por meio desse repositório colocar os códigos criados durante minha vivencia acadêmica, com o intuito de relembrar e apresentar minha evolução como programador. 
+Estarão presentes nesse repositório os códigos criados durante minha vivencia acadêmica, tendo como objetivo relembrar e apresentar minha evolução como programador. 
 
